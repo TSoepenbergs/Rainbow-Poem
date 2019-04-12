@@ -7,3 +7,4 @@ Purple
 Pink
 Yellow
 White
+Black
